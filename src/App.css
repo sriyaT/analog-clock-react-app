@@ -83,7 +83,7 @@
   left: 50%;
 }
 
-.dialLines:nth-child(5n) {
+.dialLines:nth-child(5n + 1) {
   position: absolute;
   z-index: 2;
   width: 4px;

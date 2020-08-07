@@ -45,7 +45,7 @@ class App extends Component {
           />
           <Time />
           {[...new Array(60)].map((item, index) => (
-            <InnerClock key={index} rotate={6 * (index + 1)} />
+            <InnerClock key={index} rotate={6 * index} />
           ))}
           <DateComponent />
         </div>
