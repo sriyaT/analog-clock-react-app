@@ -1,0 +1,13 @@
+.handComponent {
+  position: absolute;
+  z-index: 5;
+  width: 4px;
+  height: 65px;
+  background: blue;
+  top: 79px;
+  transform-origin: 50% 72px;
+  left: 50%;
+  margin-left: -2px;
+  border-top-left-radius: 50%;
+  border-top-right-radius: 50%;
+}

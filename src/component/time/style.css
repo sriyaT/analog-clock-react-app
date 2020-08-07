@@ -1,0 +1,25 @@
+.time {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
+.h12 {
+  position: absolute;
+  top: 6%;
+  left: 47%;
+}
+.h3 {
+  position: absolute;
+  right: 6%;
+  top: 46%;
+}
+.h6 {
+  position: absolute;
+  top: 87%;
+  left: 49%;
+}
+.h9 {
+  position: absolute;
+  left: 7%;
+  top: 46%;
+}
